@@ -53,13 +53,13 @@
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="trendingFragment">
+                  <entry key="navigation_trending">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="190" />
-                            <option name="y" value="-412" />
+                            <option name="x" value="12" />
+                            <option name="y" value="12" />
                           </Point>
                         </option>
                       </LayoutPositions>
