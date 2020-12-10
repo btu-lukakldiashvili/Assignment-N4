@@ -13,4 +13,8 @@
         android:title="Notification"
         android:id="@+id/navigation_notification" />
 
+    <item android:icon="@drawable/ic_baseline_trending_up_24"
+        android:title="Trending"
+        android:id="@+id/navigation_trending" />
+
 </menu>

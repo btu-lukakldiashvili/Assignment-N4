@@ -29,5 +29,10 @@
             android:id="@+id/action_homeFragment_to_navigation_notification"
             app:destination="@id/navigation_notification" />
     </fragment>
+    <fragment
+        android:id="@+id/navigation_trending"
+        android:name="com.example.assignment_n4.fragments.TrendingFragment"
+        android:label="fragment_trending"
+        tools:layout="@layout/fragment_trending" />
 
 </navigation>
